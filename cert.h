@@ -6,12 +6,13 @@
 //xxd -i <input file cert file>
 
 extern unsigned int ca_crt_der_len;
-extern unsigned char* ca_crt_der;
+extern unsigned char ca_crt_der[];
 
 extern unsigned int wemos_crt_der_len;
-extern unsigned char *wemos_crt_der;
+extern unsigned char wemos_crt_der[];
 
 extern unsigned int wemos_key_der_len;
-extern unsigned char *wemos_key_der;
+extern unsigned char wemos_key_der[];
+
 
 #endif

@@ -35,7 +35,7 @@
 #define mqtt_port 8883
 #define mqtt_user "admin"
 #define mqtt_password "adminpass"
-const char* fingerprint = "70 1B B0 E6 BB F7 C6 F8 FB 8A 1D 90 55 77 EF 56 3E 34 BD 6A";
+const char* fingerprint = "34 CD FC 32 41 46 9B E0 D6 EE D4 1C 3D DD FD E7 E0 42 5D 25";
 
 // ========= END Konfigurasi mosquitto ======
 
